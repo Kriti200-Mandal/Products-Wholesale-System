@@ -1,0 +1,10 @@
+=== SALE INVOICE ===
+Date: 2025-05-20 08:10:08.164388
+Customer: kkk
+Product: Vitamin C Serum
+Brand:   Garnier
+Quantity: 3
+Selling Price: 3000.0
+Total Price (incl. VAT): Rs 10170.0
+
+========================================

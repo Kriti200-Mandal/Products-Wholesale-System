@@ -1,0 +1,11 @@
+=== PURCHASE INVOICE ===
+Date: 2025-05-14 11:16:11.773489
+Supplier: kk
+Product: Vitamin C Serum
+Brand:   Garnier
+Quantity: 3
+Cost price per item: 219
+Total cost: Rs 3000.0
+Total cost including VAT: Rs 3390.0
+
+========================================
